@@ -7,3 +7,10 @@ Make changes to this README file and commit :)
 - Favorite Animal: humans
 - Hobbies: brawl stars :fire:
 - Thoughts on FRC: cool, yes, *villager noises*
+
+- Name:
+- Grade Level:
+- Favorite Color:
+- Favorite Animal: 
+- Hobbies:
+- Thoughts on FRC:
